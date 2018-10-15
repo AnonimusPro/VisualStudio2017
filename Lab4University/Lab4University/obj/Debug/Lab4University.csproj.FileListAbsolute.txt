@@ -1,0 +1,12 @@
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\bin\Debug\Lab4University.exe.config
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\bin\Debug\Lab4University.exe
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\bin\Debug\Lab4University.pdb
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\bin\Debug\EntityFramework.dll
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\bin\Debug\EntityFramework.xml
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\obj\Debug\Lab4University.csprojResolveAssemblyReference.cache
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\obj\Debug\Lab4University.exe
+c:\users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\obj\Debug\Lab4University.pdb
+C:\Users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\obj\Debug\Lab4University.Migrations.Migration1.resources
+C:\Users\andrmo\documents\visual studio 2017\Projects\Lab4University\Lab4University\obj\Debug\Lab4University.csproj.GenerateResource.Cache
