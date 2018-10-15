@@ -12,7 +12,7 @@ namespace Lab4University
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int ID { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "ПIБ обов'язкове")]
         [StringLength(50)]
         [MinLength(10, ErrorMessage = "ПIБ не може бути меншим за 10 символiв ")]
         public string PIB { get; set; }
